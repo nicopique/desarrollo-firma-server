@@ -1,4 +1,3 @@
-
 package org.agesic.firma;
 
 import java.io.File;
